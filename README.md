@@ -30,7 +30,7 @@ When I'm not coding find me haiving :coffee: or petting dogs :dog:.
 <br/>
 <br/>
 
-## Stack I sometimes use :trackball:
+## What I sometimes play with :trackball:
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" height="64" width="64"/>  <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" alt="sql" height="64" width="100"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" height="64" width="64"/>  <img src="https://logos-world.net/wp-content/uploads/2021/03/Stripe-Emblem.png" alt="stripe" height="64" width="84"/> <img src="https://assets.website-files.com/5d3ef00c73102c436bc83996/5d3ef00c73102c1f23c83a2a_logo-reversed.png" alt="mapbox" height="64" width="140"/> <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="pwa" height="64" width="110"/>
 
 
